@@ -1378,6 +1378,7 @@ h6 { font-size: 16px; }
 }
 .cavani_tm_portfolio .portfolio_list ul li .details span{
 	font-size: 14px;
+	line-height: 0;
 }
 .cavani_tm_modalbox{
 	position: fixed;
